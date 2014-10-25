@@ -1,0 +1,8 @@
+time      	1
+ConnectionRate  	2
+rep-rate  	3
+ResponseTime  	4
+NetI/O	  	5
+timo-err  	6
+oth-err		7
+
